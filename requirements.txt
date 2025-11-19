@@ -1,0 +1,11 @@
+tk
+requests
+beautifulsoup4
+sqlalchemy
+aiohttp
+pymysql
+httpx
+asyncio
+tldextract
+
+

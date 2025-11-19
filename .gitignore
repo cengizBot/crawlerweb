@@ -1,0 +1,34 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+.env/
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Cache
+.cache/
+pytest_cache/
+pip-wheel-metadata/
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# =====================
